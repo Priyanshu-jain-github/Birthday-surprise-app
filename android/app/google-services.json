@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157175528432",
+    "firebase_url": "https://arshiya-birthday.firebaseio.com",
+    "project_id": "arshiya-birthday",
+    "storage_bucket": "arshiya-birthday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157175528432:android:f2abf67ef39e114b8f3b35",
+        "android_client_info": {
+          "package_name": "com.priyanshu.arshiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157175528432-885qk82jj0smeg6k6n8ler9kmikecil4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8X-ZMeL30L8iEiEJN_H7vUjqJDX1zzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157175528432-885qk82jj0smeg6k6n8ler9kmikecil4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
